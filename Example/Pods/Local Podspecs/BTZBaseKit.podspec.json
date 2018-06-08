@@ -1,0 +1,22 @@
+{
+  "name": "BTZBaseKit",
+  "version": "0.1.0",
+  "summary": "A short description of BTZBaseKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhao_ruisheng@126.com/BTZBaseKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhao_ruisheng@126.com": "zhao_ruisheng@126.com"
+  },
+  "source": {
+    "git": "https://github.com/zhao_ruisheng@126.com/BTZBaseKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BTZBaseKit/Classes/**/*"
+}

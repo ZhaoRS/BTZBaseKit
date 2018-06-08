@@ -1,0 +1,6 @@
+framework module BTZBaseKit {
+  umbrella header "BTZBaseKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
